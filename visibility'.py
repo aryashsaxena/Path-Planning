@@ -1,11 +1,3 @@
-"""
-
-Visibility Road Map Planner
-
-author: Atsushi Sakai (@Atsushi_twi)
-
-"""
-
 import sys
 import math
 import numpy as np

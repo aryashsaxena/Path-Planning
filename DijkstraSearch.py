@@ -1,10 +1,4 @@
-"""
 
-Dijkstra Search library
-
-author: Atsushi Sakai (@Atsushi_twi)
-
-"""
 
 import matplotlib.pyplot as plt
 import math

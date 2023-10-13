@@ -1,11 +1,3 @@
-"""
-
-Voronoi Road Map Planner
-
-author: Atsushi Sakai (@Atsushi_twi)
-
-"""
-
 import math
 import numpy as np
 import matplotlib.pyplot as plt
